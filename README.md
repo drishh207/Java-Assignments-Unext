@@ -21,8 +21,8 @@ Q.Given a number N, print sum of all even numbers from 1 to N.
 
 Q. WAP to print the following patterns  
 a.for n=4
-1
-22
+1\n
+22\n
 333
 4444
 
