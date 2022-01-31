@@ -4,9 +4,9 @@ Questions:
 Q.WAP to find weather the no entered by user is even or odd.
 
 Q.WAP to swap the values of 2 nos.(Take input from user)
-eg a=10 b=20
+eg a=10 b=20<br />
 
-after swapping
+after swapping<br />
 a=20 b=10
 
 Q.WAP to find the greatest between the 3 nos and display the output. (Take input from user)
@@ -19,25 +19,25 @@ Q.WAP to print odd nos from 50-100 using do while loop.
 
 Q.Given a number N, print sum of all even numbers from 1 to N.
 
-Q. WAP to print the following patterns  
-a.for n=4
-1\n
-22\n
-333
-4444
+Q. WAP to print the following patterns <br />
+a.for n=4<br />
+1<br />
+22<br />
+333<br />
+4444<br />
 
-b.for n=4
-4444
-4444
-4444
-4444
+b.for n=4<br />
+4444<br />
+4444<br />
+4444<br />
+4444<br />
 
-c.for n=5
-    *
-   **
-  ***
- ****
-*****
+c.for n=5<br /><pre>
+&nbsp;    * <br />
+&nbsp;   ** <br />
+&nbsp;  *** <br />
+&nbsp; **** <br />
+&nbsp;***** <br /></pre>
 
 Q.Reverse an Array.
 
