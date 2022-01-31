@@ -3,10 +3,10 @@ Java assignments given by Unext professors
 Questions:
 Q.WAP to find weather the no entered by user is even or odd.
 
-Q.WAP to swap the values of 2 nos.(Take input from user)
-eg a=10 b=20<br />
+Q.WAP to swap the values of 2 nos.(Take input from user) <br />
+eg a=10 b=20 <br />
 
-after swapping<br />
+after swapping <br />
 a=20 b=10
 
 Q.WAP to find the greatest between the 3 nos and display the output. (Take input from user)
